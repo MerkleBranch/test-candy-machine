@@ -1,0 +1,1 @@
+A simple nft using metaplex's candy machine.
